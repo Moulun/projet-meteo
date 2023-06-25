@@ -1,0 +1,26 @@
+.img-1{
+    background-image: url("CARTE.png");
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    
+}
+li{
+    list-style-type: none;
+    
+}
+
+body{
+    background-color: rgba(128, 128, 128, 0.329);
+}
+li{
+    
+    color: black;
+    display: flex;
+    justify-content: center;
+}
